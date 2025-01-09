@@ -1,0 +1,27 @@
+{
+  "name": "learningnode",
+  "version": "0.0.1",
+  "description": "learning about building a url analyzer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansha-6/InspectURL.git"
+  },
+  "keywords": [
+    "web-tools"
+  ],
+  "author": "mansha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mansha-6/InspectURL/issues"
+  },
+  "homepage": "https://github.com/mansha-6/InspectURL#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.12.0"
+  }
+}
